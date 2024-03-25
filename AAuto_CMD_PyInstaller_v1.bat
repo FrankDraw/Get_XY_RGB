@@ -16,6 +16,7 @@ ECHO.
 :: Code Begin.
 set PyFile="Get_XY_RGB_v3.0.py"
 set IconFile=get_xy_rgb_favicon64.ico
+
 ECHO.
 ECHO  Python File Name: %PyFile%
 ECHO  Icon   File Name: %IconFile%
